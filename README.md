@@ -1,6 +1,6 @@
-# Bad to the Bone (Made with Unity Engine)
+## Bad to the Bone (Made with Unity Engine)
 
-## A Game by **[NinjaPirateRobotAlien](http://ninjapiraterobotalien.com/)**
+### A Game by **[NinjaPirateRobotAlien](http://ninjapiraterobotalien.com/)**
 
 ***
 
@@ -16,7 +16,10 @@ For this project's [Style Guide](styleguide.md), please follow this link: [style
 
 ---
 
-# Devlog
+# **Devlog**
+
+![DevLog](images/devlogicon_sm.jpeg)
+
 
 #### Thursday, June 1, 2023:
 
