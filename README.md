@@ -12,9 +12,22 @@ All art and code has been reworked and redone from scratch.
 
 ### This README file will also serve as a game journal/devlog, in case anyone joins the team.
 
+For this project's [Style Guide](styleguide.md), please follow this link: [styleguide.md](styleguide.md)
+
 ---
 
 # Devlog
+
+#### Thursday, June 1, 2023:
+
+Some of the script references and documentation have been implemented
+in local workstation-not in working repo currently. Will be added shortly, once placeholder assets are swapped out.
+
+Overall, it's looking like, other than the UI, there won't be too many scripts to run the game loop and record a high score.
+
+Which reminds me... Need a database to store high scores!
+
+-CB
 
 #### Thursday, May 25, 2023:
 
@@ -33,6 +46,8 @@ I *did* have to rethink version control, and have been *adapting* to Plastic SCM
 
 
 I wonder if there is way to make these darn Unity project files smaller? *Like, do we need all this junk?!*
+
+-CB
 
 ---
 
