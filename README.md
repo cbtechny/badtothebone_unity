@@ -18,9 +18,7 @@ For this project's [Style Guide](styleguide.md), please follow this link: [style
 
 # **Devlog**
 
-![DevLog](images/devlogicon_sm.jpeg)
-
-
+![New Post](images/newicon.png)
 #### Thursday, June 1, 2023:
 
 Some of the script references and documentation have been implemented
